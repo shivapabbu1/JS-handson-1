@@ -1,0 +1,23 @@
+
+*{
+    background-image: linear-gradient(red yellow green); 
+    
+}
+#head{
+    
+    font-size: xx-large;
+    color: black;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h1{
+    color: brown;
+    font-size: larger;
+    text-align: center;
+}
+.text{
+    border: 2px solid;
+    padding: 20px;
+}
